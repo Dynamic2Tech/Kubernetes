@@ -1,6 +1,6 @@
 # kops-kubernetes-cluster-configuration
 # Dynamics2Tech ,  -    Dynamics2Tech 
-# Tel: +1 437 215 2483,   -     +1 437 215 2483 
+# Tel: +1 587 973 0305,   -     +1 587 973 0305 
 # dynamics2technologies@gmail.com, 
 
 # Setting up Kubernetes (K8s) Cluster on AWS Using KOPS
